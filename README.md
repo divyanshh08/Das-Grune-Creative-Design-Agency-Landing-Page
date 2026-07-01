@@ -55,7 +55,7 @@ All visual design credit goes to the original designer. This repository contains
 
 | Hero Section | Services Section | Quote Section |
 |---|---|---|
-| _coming soon_ | _coming soon_ | _coming soon_ |
+| ![Hero](assets/screenshots/home_screen.jpg) | ![Services](assets/screenshots/services.jpg) | _coming soon_ |
 
 ---
 
